@@ -239,19 +239,19 @@ The Maven Wrapper is an easy way to ensure a user of your Maven build has everyt
 * https://projectlombok.org/features/configuration
 * https://github.com/rzwitserloot/lombok/issues/2044
 
-## Immutables
+### Immutables
 
 Java annotation processors to generate simple, safe and consistent value objects
 
 * https://immutables.github.io/
 
-## Hibernate Validator
+### Hibernate Validator
 
 * https://hibernate.org/validator/
 * https://docs.jboss.org/hibernate/validator/7.0/reference/en-US/html_single/#validator-annotation-processor
 * https://beanvalidation.org/2.0/
 
-## Mapstruct
+### Mapstruct
 
 Java mapper library
 
@@ -259,13 +259,13 @@ Java mapper library
 * https://mapstruct.org/documentation/dev/reference/html/#mapping-with-constructors
 * https://mapstruct.org/documentation/dev/reference/html/#mapping-with-builders
 
-## Flyway
+### Flyway
 
 Database migrations tool
 
 * https://flywaydb.org/
 
-## Liquibase
+### Liquibase
 
 Database migrations tool
 
