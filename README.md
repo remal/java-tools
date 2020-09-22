@@ -168,10 +168,6 @@ Build tool
 
 * https://maven.apache.org/
 
-#### Maven Tiles
-
-* https://github.com/repaint-io/maven-tiles
-
 #### Maven wrapper
 
 The Maven Wrapper is an easy way to ensure a user of your Maven build has everything necessary to run your Maven build.
@@ -179,6 +175,10 @@ The Maven Wrapper is an easy way to ensure a user of your Maven build has everyt
 * https://github.com/takari/maven-wrapper
 * http://jakub.marchwicki.pl/posts/2015/06/04/maven-wrapper/
 * IDEA natively supports Maven Wrapper from 2020.2: https://blog.jetbrains.com/idea/2020/05/intellij-idea-2020-2-early-access-program-is-starting/
+
+#### Maven Tiles
+
+* https://github.com/repaint-io/maven-tiles
 
 ## Testing
 
