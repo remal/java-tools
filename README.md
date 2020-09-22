@@ -1,4 +1,50 @@
+
+
 <!-- toc -->
+
+- [Tools/approaches for Java projects](#toolsapproaches-for-java-projects)
+  * [Common](#common)
+  * [Local environment](#local-environment)
+    + [Inbox Zero](#inbox-zero)
+    + [Total Commander](#total-commander)
+    + [Notepad++](#notepad)
+    + [Intellij IDEA](#intellij-idea)
+      - [Jetbrains Toolbox](#jetbrains-toolbox)
+      - [Jetbrains Mono](#jetbrains-mono)
+      - [IDEA plugins](#idea-plugins)
+      - [IDEA required plugins for the project](#idea-required-plugins-for-the-project)
+  * [Code repository](#code-repository)
+    + [.gitignore file](#gitignore-file)
+    + [.gitattributes file](#gitattributes-file)
+    + [EditorConfig](#editorconfig)
+    + [Renovate](#renovate)
+    + [Dependabot](#dependabot)
+    + [Branching strategy](#branching-strategy)
+  * [Java & JVM languages](#java--jvm-languages)
+    + [Gradle](#gradle)
+    + [Maven](#maven)
+      - [Maven wrapper](#maven-wrapper)
+  * [Testing](#testing)
+    + [Test Pyramid](#test-pyramid)
+    + [JUnit 5](#junit-5)
+    + [Mockito](#mockito)
+    + [Testcontainers](#testcontainers)
+    + [Spring Cloud Contract](#spring-cloud-contract)
+    + [PIT Mutation Testing](#pit-mutation-testing)
+  * [Static analysis](#static-analysis)
+    + [Checkstyle](#checkstyle)
+    + [SonarQube](#sonarqube)
+    + [Nullity annotations](#nullity-annotations)
+  * [Spring Framework](#spring-framework)
+  * [Libraries](#libraries)
+    + [Lombok](#lombok)
+  * [Immutables](#immutables)
+  * [Hibernate Validator](#hibernate-validator)
+  * [Mapstruct](#mapstruct)
+  * [Flyway](#flyway)
+  * [Liquibase](#liquibase)
+
+<!-- tocstop -->
 
 # Tools/approaches for Java projects
 
