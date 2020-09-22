@@ -38,11 +38,11 @@
   * [Spring Framework](#spring-framework)
   * [Libraries](#libraries)
     + [Lombok](#lombok)
-  * [Immutables](#immutables)
-  * [Hibernate Validator](#hibernate-validator)
-  * [Mapstruct](#mapstruct)
-  * [Flyway](#flyway)
-  * [Liquibase](#liquibase)
+    + [Immutables](#immutables)
+    + [Hibernate Validator](#hibernate-validator)
+    + [Mapstruct](#mapstruct)
+    + [Flyway](#flyway)
+    + [Liquibase](#liquibase)
 
 <!-- tocstop -->
 
