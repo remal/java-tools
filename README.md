@@ -167,6 +167,10 @@ Build tool
 
 * https://maven.apache.org/
 
+#### Maven Tiles
+
+* https://github.com/repaint-io/maven-tiles
+
 #### Maven wrapper
 
 The Maven Wrapper is an easy way to ensure a user of your Maven build has everything necessary to run your Maven build.
