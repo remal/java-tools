@@ -23,6 +23,7 @@
   * [Java & JVM languages](#java--jvm-languages)
     + [Gradle](#gradle)
     + [Maven](#maven)
+      - [Maven Tiles](#maven-tiles)
       - [Maven wrapper](#maven-wrapper)
   * [Testing](#testing)
     + [Test Pyramid](#test-pyramid)
